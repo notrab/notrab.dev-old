@@ -5,7 +5,7 @@ import Layout from "../components/Layout";
 
 function PostLayout({ pageContext, children }) {
   const { frontmatter } = pageContext;
-  const { title, date } = frontmatter;
+  const { title } = frontmatter;
 
   return (
     <Layout>
@@ -17,7 +17,7 @@ function PostLayout({ pageContext, children }) {
 
       <div className="prose">
         <h1>{title}</h1>
-        <p>{date}</p>
+
         {children}
       </div>
     </Layout>

@@ -1,6 +1,6 @@
 ---
 title: Manage Shopping Carts with GraphQL
-date: 27-08-2020
+date: 2020-08-27
 ---
 
 [CartQL](https://cartql.com) is a GraphQL Shopping Cart API designed to work with your existing frontend or backend.

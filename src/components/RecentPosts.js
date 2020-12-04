@@ -5,13 +5,16 @@ import PostList from "./PostList";
 
 const QUERY = graphql`
   query allPosts {
-    allFile(filter: { sourceInstanceName: { eq: "posts" } }) {
+    allFile(
+      filter: { sourceInstanceName: { eq: "posts" } }
+      sort: { order: DESC, fields: childMarkdownRemark___frontmatter___date }
+    ) {
       nodes {
         childMdx {
           slug
           frontmatter {
             title
-            date
+            date(formatString: "MMM, D")
           }
         }
       }

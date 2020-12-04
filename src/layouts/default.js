@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/Layout";
 
-function PostLayout({ pageContext, children }) {
+function DefaultLayout({ pageContext, children }) {
   const { frontmatter } = pageContext;
   const { title } = frontmatter;
 
@@ -16,4 +16,4 @@ function PostLayout({ pageContext, children }) {
   );
 }
 
-export default PostLayout;
+export default DefaultLayout;
