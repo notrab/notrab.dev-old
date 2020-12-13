@@ -1,8 +1,12 @@
+---
+seo_title: Now
+---
+
 # Now
 
-I'm currently Technical Marketing Lead at [GraphCMS](https://graphcms.com).
+Over the last few years I've been working closely with a lot of companies embracing headless commerce, headless APIs, and the Jamstack.
 
-I spend most of my days writing documentation, speaking with developers, and collaborating on projects with the community.
+Day to day I do mostly marketing at [GraphCMS](https://graphcms.com). I spend most of my days writing documentation, working as a marketing engineer, speaking with developers, and collaborating on projects with the community.
 
 When I'm not working, you'll find me downtown Verdansk.
 

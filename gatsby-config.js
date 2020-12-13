@@ -17,6 +17,8 @@ module.exports = {
     "gatsby-transformer-remark",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "@pauliescanlon/gatsby-mdx-embed",
+    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-mdx",
       options: {

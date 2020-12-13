@@ -1,3 +1,7 @@
+---
+meta_title: Full-Stack Software Engineer, JavaScript, Jamstack, Ruby on Rails
+---
+
 # Hello
 
 I'm Jamie, a software engineer, born and bred in North East England.

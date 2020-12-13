@@ -14,7 +14,7 @@ const QUERY = graphql`
           slug
           frontmatter {
             title
-            date(formatString: "MMM, D")
+            date(formatString: "MMM, D, YYYY")
           }
         }
       }
