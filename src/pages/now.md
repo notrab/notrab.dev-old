@@ -1,5 +1,5 @@
 ---
-seo_title: Now
+meta_title: Jamie Barton, Full-Stack Software Engineer
 ---
 
 # Now
