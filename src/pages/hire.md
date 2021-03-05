@@ -13,3 +13,6 @@ If you need someone who has experienced in the following areas, we _really_ shou
 - React, Next.js, Gatsby, and Gatsby plugins
 - Ruby on Rails
 - Content Modelling
+- Video tutorials
+- documentation
+- SDKs

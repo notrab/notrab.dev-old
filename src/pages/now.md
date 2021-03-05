@@ -6,7 +6,7 @@ seo_title: Now
 
 Over the last few years I've been working closely with a lot of companies embracing headless commerce, headless APIs, and the Jamstack.
 
-Day to day I do mostly marketing at [GraphCMS](https://graphcms.com). I spend most of my days writing documentation, working as a marketing engineer, speaking with developers, and collaborating on projects with the community.
+I am the Head of Developer Relations at [GraphCMS](https://graphcms.com). I spend most of my days writing documentation, working as a marketing engineer, speaking with developers, and collaborating on projects with the community.
 
 When I'm not working, you'll find me downtown Verdansk.
 
