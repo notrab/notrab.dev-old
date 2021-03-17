@@ -12,7 +12,7 @@ function PostLayout({ pageContext, children }) {
     <Layout>
       <Helmet title={title} />
       <div className="py-3">
-        <Link to="/" className="text-gray-500 hover:text-amber-500 transition">
+        <Link to="/" className="text-gray-500 hover:text-rose-500 transition">
           &larr; Posts
         </Link>
       </div>

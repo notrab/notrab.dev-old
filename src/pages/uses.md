@@ -9,7 +9,7 @@
 
 ## Desktop Apps
 
-- Brave browser for building, debugging, dev tools, and watching YouTube
+- Brave browser for building, debugging, dev tools, and watching Call of Duty videos on YouTube
 - Figma for exploring my design interests
 - Postico for connecting to Postgres
 - Robo 3T for managing Mongo databases

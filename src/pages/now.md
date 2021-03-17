@@ -12,6 +12,7 @@ When I'm not working, you'll find me downtown Verdansk.
 
 ## Side projects
 
+- [GraphQL.wtf](https://graphql.wtf) &mdash; A GraphQL focused video tutorial site.
 - [CartQL](https://cartql.com) &mdash; A GraphQL Shopping Cart API that works with your existing product inventory
 - [GraphiQLBin](https://graphiqlbin.com) &mdash; Save and share your GraphQL queries with this hosted GraphiQL
 - [Headless Commerce Resources](https://headlesscommerce.org) &mdash; A community curated list of commerce products, services, and agencies

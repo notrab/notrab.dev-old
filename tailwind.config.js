@@ -4,7 +4,7 @@ module.exports = {
   purge: ["./src/**/*.{js,md,mdx}"],
   theme: {
     extend: {
-      colors: { amber: colors.amber },
+      colors: { rose: colors.rose },
       fontFamily: {
         sans: ["Inter"],
         serif: ["'EB Garamond'"],
@@ -13,7 +13,7 @@ module.exports = {
         DEFAULT: {
           css: {
             a: {
-              color: theme("colors.amber.500"),
+              color: theme("colors.rose.500"),
               fontWeight: theme("fontWeight.normal"),
               textDecoration: theme("textDecoration.no-underline"),
               "&:hover": {
@@ -21,7 +21,7 @@ module.exports = {
               },
             },
             h1: {
-              color: theme("colors.amber.500"),
+              color: theme("colors.rose.500"),
               fontFamily: theme("fontFamily.serif"),
               fontWeight: theme("fontWeight.bold"),
             },
@@ -38,9 +38,9 @@ module.exports = {
               fontWeight: theme("fontWeight.semibold"),
             },
             code: {
-              backgroundColor: theme("colors.amber.50"),
+              backgroundColor: theme("colors.rose.50"),
               borderRadius: theme("borderRadius.DEFAULT"),
-              color: theme("colors.amber.600"),
+              color: theme("colors.rose.600"),
               fontWeight: theme("fontWeight.normal"),
               padding: theme("padding.1"),
             },

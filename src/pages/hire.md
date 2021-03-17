@@ -14,5 +14,5 @@ If you need someone who has experienced in the following areas, we _really_ shou
 - Ruby on Rails
 - Content Modelling
 - Video tutorials
-- documentation
+- Documentation
 - SDKs
