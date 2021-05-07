@@ -30,5 +30,13 @@ module.exports = {
       },
     },
     "gatsby-plugin-postcss",
+    {
+      resolve: `gatsby-plugin-splitbee`,
+      options: {
+        includeInDevelopment: false,
+        delayTimeout: 0,
+        disableCookie: false,
+      },
+    },
   ],
 };
