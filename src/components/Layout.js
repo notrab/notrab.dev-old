@@ -4,19 +4,19 @@ import { Link } from "gatsby";
 function Layout({ children }) {
   return (
     <>
-      <div className="flex justify-between p-6 mx-auto max-w-5xl">
-        <Link to="/" activeClassName="text-gray-400">
+      <div className="p-6 flex justify-between items-center mx-auto max-w-5xl mt-6">
+        <Link to="/" activeClassName="text-rose-600">
           <img
             src="/jamie-barton.jpg"
             alt="Jamie Barton"
             className="w-12 h-12"
           />
         </Link>
-        <ul className="flex space-x-3 md:space-x-12 text-sm">
+        <ul className="flex space-x-3 md:space-x-12 text-sm px-6">
           <Link
             to="/"
             className="hover:text-rose-600"
-            activeClassName="text-gray-400"
+            activeClassName="text-rose-600"
           >
             <svg
               className="w-5 h-5 fill-current"
@@ -30,21 +30,28 @@ function Layout({ children }) {
           <Link
             to="/now"
             className="hover:text-rose-600"
-            activeClassName="text-gray-400"
+            activeClassName="text-rose-600"
           >
             Now
           </Link>
           <Link
             to="/uses"
             className="hover:text-rose-600"
-            activeClassName="text-gray-400"
+            activeClassName="text-rose-600"
           >
             Uses
           </Link>
           <Link
+            to="/talks"
+            className="hover:text-rose-600"
+            activeClassName="text-rose-600"
+          >
+            Talks
+          </Link>
+          <Link
             to="/hire"
             className="hover:text-rose-600"
-            activeClassName="text-gray-400"
+            activeClassName="text-rose-600"
           >
             Hire
           </Link>
